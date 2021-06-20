@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606458799895",
+    "project_id": "holidayapi-51d3c",
+    "storage_bucket": "holidayapi-51d3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606458799895:android:25718ae4de7e8483b5b952",
+        "android_client_info": {
+          "package_name": "com.example.holidayapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606458799895-h533iohoj306huvpi2dfhd2egsoqskf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHHfviUQ99rpB7efetHhREwydHQ0JcHoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606458799895-h533iohoj306huvpi2dfhd2egsoqskf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
